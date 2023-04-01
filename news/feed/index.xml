@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ニュース - eBrave</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>IT・DXの悩みを解消するプロ集団。あなたの事業をデジタル領域の全方位から総合サポートします。</description>
+	<lastBuildDate>Tue, 03 May 2022 11:00:53 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2022/04/cropped-logo_transparent-e1649943713107-32x32.png</url>
+	<title>ニュース - eBrave</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>eBrave始動</title>
+		<link>./../ebrave%e5%a7%8b%e5%8b%95/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ebrave%25e5%25a7%258b%25e5%258b%2595</link>
+		
+		<dc:creator><![CDATA[eBrave]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 00:00:39 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=news#038;p=118</guid>
+
+					<description><![CDATA[<p>eBraveサービスが開始しました。</p>
+<p>The post <a href="./../ebrave%e5%a7%8b%e5%8b%95/index.html">eBrave始動</a> first appeared on <a href="./../../index.html">eBrave</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>eBraveサービスが開始しました。</p><p>The post <a href="./../ebrave%e5%a7%8b%e5%8b%95/index.html">eBrave始動</a> first appeared on <a href="./../../index.html">eBrave</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Brave設立</title>
+		<link>./../news-sample/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=news-sample</link>
+		
+		<dc:creator><![CDATA[eBrave]]></dc:creator>
+		<pubDate>Thu, 30 Dec 2021 00:00:39 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=news#038;p=36</guid>
+
+					<description><![CDATA[<p>Braveが設立されました。</p>
+<p>The post <a href="./../news-sample/index.html">Brave設立</a> first appeared on <a href="./../../index.html">eBrave</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Braveが設立されました。</p><p>The post <a href="./../news-sample/index.html">Brave設立</a> first appeared on <a href="./../../index.html">eBrave</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
